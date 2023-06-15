@@ -2,4 +2,4 @@
 ### Для забавы ради
 ### Просто скопировал код:)
 
-#### Сcылка на сайт - [heard](https://olirun.github.io/7-Project__Heart/).
+#### Сcылка на сайт - [heart](https://olirun.github.io/7-Project__Heart/).
